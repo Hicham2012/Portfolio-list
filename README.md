@@ -16,6 +16,8 @@
 - Rayban glasses WebXR (8th wall):
   [github link](https://github.com/Hicham2012/rayban)
 - Playable Ad: [github link](https://github.com/Hicham2012/Quiet)
+- Snow Path:
+[video](https://www.linkedin.com/posts/hicham-zaadla_threejs-threejsjourney-webgl-activity-7240455487077453825-6CrM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4vSWkBvamRhdgPRQYy4-Sz55gDZNw2KQQ)
 #### 2023
 - Portfolio Sonia Coronado: [link](https://portfolio-sonia-coronado.vercel.app/)
 - Hicham Portfolio 2:
