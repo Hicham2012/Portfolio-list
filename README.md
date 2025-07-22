@@ -19,7 +19,7 @@
 - Snow Path:
 [video](https://www.linkedin.com/posts/hicham-zaadla_threejs-threejsjourney-webgl-activity-7240455487077453825-6CrM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4vSWkBvamRhdgPRQYy4-Sz55gDZNw2KQQ)
 #### 2023
-- Portfolio Sonia Coronado: [link](https://portfolio-sonia-coronado.vercel.app/)
+- Portfolio Sonia Coronado: [link](https://portfolio-sonia-coronado.vercel.app/) | [github link](https://github.com/tkalejandro/portfolio-sonia-coronado)
 - Hicham Portfolio 2:
 [video](https://www.linkedin.com/posts/hicham-zaadla_adding-webgl-to-my-personal-website-wip-activity-7119095590864478208-q9-c?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4vSWkBvamRhdgPRQYy4-Sz55gDZNw2KQQ)
 | [link](https://3d-zaadla.vercel.app/)
