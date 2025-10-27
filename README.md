@@ -2,6 +2,7 @@
 
 ### Projects:
 #### 2025
+- Panel Demo: [link](https://panels-demo-liart.vercel.app/)
 - ModsNation (freelance threejs creative developer): [link](https://www.modsnation.com/)
 - Anamorphic camera (custom blur and curve):
 [video](https://www.linkedin.com/posts/hicham-zaadla_threejs-threejsjourney-webgl-activity-7289308550240116736-HKPV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4vSWkBvamRhdgPRQYy4-Sz55gDZNw2KQQ)
