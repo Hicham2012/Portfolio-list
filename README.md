@@ -2,6 +2,7 @@
 
 ### Projects:
 #### 2026
+- Fluid wind WebGPU: [link](https://fluid-wind-pt1.vercel.app/) [inspiration](https://www.youtube.com/watch?v=iKAVRgIrUOU)
 - AI Parallax effect (three.js & mediapipe): [link](https://ai-parallex-effect.vercel.app/)
 #### 2025
 - Panel Demo: [link](https://panels-demo-liart.vercel.app/)
