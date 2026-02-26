@@ -1,6 +1,8 @@
 # Portfolio-list
 
 ### Projects:
+#### 2026
+- AI Parallax effect (three.js & mediapipe): [link](https://ai-parallex-effect.vercel.app/)
 #### 2025
 - Panel Demo: [link](https://panels-demo-liart.vercel.app/)
 - ModsNation (freelance threejs creative developer): [link](https://www.modsnation.com/)
