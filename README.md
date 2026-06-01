@@ -2,6 +2,7 @@
 
 ### Projects:
 #### 2026
+- First WebGPU Football simulator: [link](https://www.linkedin.com/posts/hicham-zaadla_threejs-football-webgl-activity-7463690498126491649-mcaV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4vSWkBvamRhdgPRQYy4-Sz55gDZNw2KQQ)
 - Fluid wind WebGPU: [link](https://fluid-wind-pt1.vercel.app/) [inspiration](https://www.youtube.com/watch?v=iKAVRgIrUOU)
 - AI Parallax effect with OrbitControls support (three.js & mediapipe): [link](https://ai-parallex-effect.vercel.app/)
 #### 2025
