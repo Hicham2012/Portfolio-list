@@ -32,8 +32,8 @@
 - Portal WebXR:
 [video](https://www.linkedin.com/posts/hicham-zaadla_finished-my-first-experiment-on-webxr-as-activity-7099901493876514817-Ga69?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4vSWkBvamRhdgPRQYy4-Sz55gDZNw2KQQ)
 | [github link](https://github.com/Hicham2012/Portal_SceneXR/tree/main)
-
 ### Others:
 - Motion design: [link](https://www.linkedin.com/posts/hicham-zaadla_learning-some-motion-design-this-week-and-activity-7192948599515693056-fzwW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4vSWkBvamRhdgPRQYy4-Sz55gDZNw2KQQ)
 - 3D modeling: [link](https://www.linkedin.com/posts/hicham-zaadla_3d-blender-meme-activity-7291821750621777920-q2tk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4vSWkBvamRhdgPRQYy4-Sz55gDZNw2KQQ)
 - 3D Donut with animation: [link](https://dribbble.com/shots/21886870-Donut-final-touch)
+- Instagram page (3D work): [link](https://www.instagram.com/hichamzaadla/)
