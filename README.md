@@ -2,7 +2,7 @@
 
 ### Projects:
 #### 2026
-- Fluid Airtunnel WebGPU: [link](https://www.linkedin.com/posts/hicham-zaadla_threejs-3d-airtunnel-ugcPost-7491883833886224384-ZsVj/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD4vSWkBvamRhdgPRQYy4-Sz55gDZNw2KQQ)
+- Fluid Airtunnel WebGPU: [video](https://www.linkedin.com/posts/hicham-zaadla_threejs-3d-airtunnel-ugcPost-7491883833886224384-ZsVj/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD4vSWkBvamRhdgPRQYy4-Sz55gDZNw2KQQ)
 - First WebGPU Football simulator WIP: [video](https://www.linkedin.com/posts/hicham-zaadla_threejs-football-webgl-activity-7463690498126491649-mcaV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4vSWkBvamRhdgPRQYy4-Sz55gDZNw2KQQ)
 - Fluid wind WebGPU: [link](https://fluid-wind-pt1.vercel.app/) [inspiration](https://www.youtube.com/watch?v=iKAVRgIrUOU)
 - AI Parallax effect with OrbitControls support (three.js & mediapipe): [link](https://ai-parallex-effect.vercel.app/)
