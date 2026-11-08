@@ -2,6 +2,7 @@
 
 ### Projects:
 #### 2026
+- Car sensor simulation on 3D map: [link](https://car-simulation-sensor.vercel.app/)
 - Solar Installation on 3D map: [link](https://sollar-installation.vercel.app/)
 - Fluid Airtunnel WebGPU: [video](https://www.linkedin.com/posts/hicham-zaadla_threejs-3d-airtunnel-ugcPost-7491883833886224384-ZsVj/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD4vSWkBvamRhdgPRQYy4-Sz55gDZNw2KQQ)
 - First WebGPU Football simulator WIP: [video](https://www.linkedin.com/posts/hicham-zaadla_threejs-football-webgl-activity-7463690498126491649-mcaV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4vSWkBvamRhdgPRQYy4-Sz55gDZNw2KQQ)
